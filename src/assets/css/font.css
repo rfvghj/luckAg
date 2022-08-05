@@ -1,0 +1,11 @@
+@font-face {
+    font-family: DIN;
+    src: url('../font/DIN-Bold.otf'),
+        url('../font/DIN-Medium.otf'),
+        url('../font/DIN-Regular.otf');
+
+}
+
+div {
+    font-family: DIN;
+}
